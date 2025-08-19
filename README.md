@@ -7,6 +7,10 @@ We were inspired to create this t-shirt by comment that more or less said "At le
 
 We chose the One-Time Pad (OTP) algorithm instead of other encryption algorithms because it is a very simple and can be understood by everyone. No special mathematical skills are required to grasp its principles.
 
+<img src="front.png" alt="front" width="500" height="600"> 
+
+<img src="back.png" alt="back" width="500" height="600"> 
+
 ## Food for Thought
 
 1. We never imagined, even in our darkest dreams, that Europe would become the next China.
